@@ -1,0 +1,2 @@
+# ProyectoFinal
+La App funciona de la siguiente manera, es muy fácil de usar. Primero debes ser un estudiante de la OYM activo, y una vez dentro de la app te mostrara rutas disponibles de estudiantes drivers, una vez enganches una te preguntara destino o ruta, cuantos estudiantes son y dinero a pagar, para que el driver venga ya con la devuelta. trabajo cedido a los decentes y estudiantes de la universidad OYM, por Patricio Lorenzo 15-SIIN-1-080 el video entero..
